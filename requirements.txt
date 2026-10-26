@@ -1,0 +1,25 @@
+# inverter-predictive-ai — Requirements
+# AI-powered Inverter/PCS Predictive Maintenance
+# Author: Prateek Gaur
+
+# ── Core ──────────────────────────────────────────────────────────────────────
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# ── Deep Learning ─────────────────────────────────────────────────────────────
+torch>=2.6.0
+
+# ── API ───────────────────────────────────────────────────────────────────────
+fastapi>=0.110.0
+uvicorn>=0.27.0
+pydantic>=2.0.0
+
+# ── Dashboard ─────────────────────────────────────────────────────────────────
+streamlit>=1.35.0
+matplotlib>=3.7.0
+plotly>=5.18.0
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+python-dateutil>=2.8.2
+requests>=2.31.0

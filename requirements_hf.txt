@@ -1,0 +1,6 @@
+# Hugging Face Spaces requirements
+# inverter-predictive-ai HF deployment
+
+numpy>=1.24.0
+pandas>=2.0.0
+streamlit>=1.35.0
